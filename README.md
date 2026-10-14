@@ -1,4 +1,3 @@
-
 # License Plate Detection and Recognition
 
 [![Python](https://img.shields.io/badge/Python-3.13.15-blue.svg)](https://www.python.org/)
@@ -19,6 +18,10 @@
 - [Conclusion](#7-conclusion)
 - [References](#8-references)
 ## 1. Introduction
+
+This project develops an end-to-end license plate detection and recognition system using **YOLOv11** for license plate localization and bounding-box detection, combined with a **CNN-based Optical Character Recognition (OCR)** model for character recognition.
+
+The project also implements an end-to-end benchmarking pipeline to evaluate detection accuracy, recognition performance, and inference time. Furthermore, the system is deployed through **web and mobile applications**, providing user-friendly interfaces for license plate detection and recognition in practical scenarios.
 
 ## 2. Dataset
 
